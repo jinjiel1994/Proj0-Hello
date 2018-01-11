@@ -1,8 +1,8 @@
 # Proj0-Hello
 
-## Author: Jim Li
+**Author: Jim Li**
 
-## Contact Address: jinjiel@uoregon.edu
+**Contact Address: jinjiel@uoregon.edu**
 
 ## Description: 
 
